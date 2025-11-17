@@ -39,13 +39,11 @@ Neste guia, você vai aprender as funcionalidades da aba de calendário de preç
 
 O caminho para acessar o calendário de preços do hotel é: **Menu de Navegação > Gestão > Tarifários e Disponibilidade > Calendário de Preços:** 
 
-Em **‘Calendário de Preços’** será possível consultar os preços, restrições e fechos/aberturas de vendas que foram aplicados para os canais de vendas atribuídos aos tarifários criados pelo hotel. Para visualizar estas informações, é necessário selecionar um ‘tipo de quarto’ do tarifário cujas informações você deseja consultar.
-
-
-
 ![imagem-5](/assets/guia-myhotel-calendario-de-precos-teste/imagem-5.webp)
 
+Em **‘Calendário de Preços’** será possível consultar os preços, restrições e fechos/aberturas de vendas que foram aplicados para os canais de vendas atribuídos aos tarifários criados pelo hotel. Para visualizar estas informações, é necessário selecionar um ‘tipo de quarto’ do tarifário cujas informações você deseja consultar.
 
+![imagem-8](/assets/guia-myhotel-calendario-de-precos-teste/imagem-8.webp)
 
 ## TARIFÁRIOS E DISPONIBILIDADE
 
@@ -60,12 +58,7 @@ GUIA RÁPIDO
 Após selecionar o "tipo de quarto" do tarifário que deseja consultar, é importante que você conheça as opções de **pesquisa e os filtros** disponíveis, que podem ajudar a encontrar as informações desejadas de maneira mais rápida. Veja: 
 
 
-
-![imagem-8](/assets/guia-myhotel-calendario-de-precos-teste/imagem-8.webp)
-
 ![imagem-9](/assets/guia-myhotel-calendario-de-precos-teste/imagem-9.webp)
-
-
 
 ## TARIFÁRIOS E DISPONIBILIDADE
 
@@ -78,19 +71,19 @@ GUIA RÁPIDO
 **1. TARIFAS E PACOTE:**  
 Nesta lista, serão exibidos os tarifários e pacotes criados pelo hotel (para tarifários do tipo pacote, o sistema irá identificá-los com “[P]” antes do nome do tarifário):
 
+![imagem-12](/assets/guia-myhotel-calendario-de-precos-teste/imagem-12.webp)
+
+
 **2. PESQUISAR E AGRUPAR POR:**  
 Será possível buscar pelo nome do ‘Tarifário’, do ‘Tipo de Quarto’, pelo nome do ‘Canal’ de vendas e pelo nome do ‘Nível de Fidelização’ (caso o hotel tenha ativada a solução BeeLoyalty):
-
-**3. ORDENAR POR:**  
-Será possível ordenar a lista de tarifas e pacotes por: 'Mais recentes no topo', 'Mais antigas no topo', 'Ordenar de A-Z' e 'Ordenar de Z-A':
-
-
-
-![imagem-12](/assets/guia-myhotel-calendario-de-precos-teste/imagem-12.webp)
 
 ![imagem-13](/assets/guia-myhotel-calendario-de-precos-teste/imagem-13.webp)
 
 
+**3. ORDENAR POR:**  
+Será possível ordenar a lista de tarifas e pacotes por: 'Mais recentes no topo', 'Mais antigas no topo', 'Ordenar de A-Z' e 'Ordenar de Z-A':
+
+![imagem-16](/assets/guia-myhotel-calendario-de-precos-teste/imagem-16.webp)
 
 ## TARIFÁRIOS E DISPONIBILIDADE
 
@@ -103,16 +96,13 @@ GUIA RÁPIDO
 **4. PREÇOS PARA:**  
 Escolha o número de PAX (Adultos e Crianças) de acordo com a ocupação do tipo de quarto e veja o preço cadastrado:
 
-**5. MÊS:**  
-Selecione o mês que deseja consultar informações ou utilize as setas de ‘avançar ou retornar’:
-
-
-
-![imagem-16](/assets/guia-myhotel-calendario-de-precos-teste/imagem-16.webp)
-
 ![imagem-17](/assets/guia-myhotel-calendario-de-precos-teste/imagem-17.webp)
 
 
+**5. MÊS:**  
+Selecione o mês que deseja consultar informações ou utilize as setas de ‘avançar ou retornar’:
+
+![imagem-20](/assets/guia-myhotel-calendario-de-precos-teste/imagem-20.webp)
 
 ## TARIFÁRIOS E DISPONIBILIDADE
 
@@ -125,16 +115,13 @@ GUIA RÁPIDO
 **6. VISUALIZAÇÃO 1 MÊS:**  
 Permite consultar as informações do mês selecionado:
 
-**7. VISUALIZAÇÃO 6 MESES:**  
-Irá exibir um calendário que possibilita visualizar até 6 meses.
-
-
-
-![imagem-20](/assets/guia-myhotel-calendario-de-precos-teste/imagem-20.webp)
-
 ![imagem-21](/assets/guia-myhotel-calendario-de-precos-teste/imagem-21.webp)
 
 
+**7. VISUALIZAÇÃO 6 MESES:**  
+Irá exibir um calendário que possibilita visualizar até 6 meses.
+
+![imagem-24](/assets/guia-myhotel-calendario-de-precos-teste/imagem-24.webp)
 
 ## TARIFÁRIOS E DISPONIBILIDADE
 
@@ -149,15 +136,10 @@ Ao estacionar o mouse neste botão, será exibida uma legenda com as cores relac
 *‘Aberto para Vendas’*, *‘Fechado para Vendas’*, *‘Fechado Parcialmente para Vendas’* e *‘Allotment Indisponível’*   
 - e que aparecerão no calendário de preços:
 
-### Detalhes e Edição:  
-
-
-
-![imagem-24](/assets/guia-myhotel-calendario-de-precos-teste/imagem-24.webp)
-
 ![imagem-25](/assets/guia-myhotel-calendario-de-precos-teste/imagem-25.webp)
 
 
+### Detalhes e Edição:  
 
 ## TARIFÁRIOS E DISPONIBILIDADE
 
@@ -168,6 +150,8 @@ GUIA RÁPIDO
 8 
 
 Ao clicar em um dia, abrirá uma ‘janela de ‘informações’, mostrando preços, disponibilidade e restrições que tem cadastrado para o tipo de quarto do tarifário:
+
+![imagem-28](/assets/guia-myhotel-calendario-de-precos-teste/imagem-28.webp)
 
 - **Preços:**  
  valor por ‘Adulto (PAX) ou Criança’ de acordo com a ocupação configurada para o tipo de quarto.
@@ -181,8 +165,8 @@ Ao clicar em um dia, abrirá uma ‘janela de ‘informações’, mostrando pre
 E ao clicar no botão **‘Editar’** (sinalizado com ícone de lápis) no canto superior direito da janela de informações, aparecerão mais opções:
 
 
+![imagem-31](/assets/guia-myhotel-calendario-de-precos-teste/imagem-31.webp)
 
-![imagem-28](/assets/guia-myhotel-calendario-de-precos-teste/imagem-28.webp)
 
 
 
@@ -206,7 +190,6 @@ Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário c
 
 
 
-![imagem-31](/assets/guia-myhotel-calendario-de-precos-teste/imagem-31.webp)
 
 ![imagem-32](/assets/guia-myhotel-calendario-de-precos-teste/imagem-32.webp)
 
