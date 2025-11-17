@@ -63,9 +63,9 @@ Menu de Navegação > Gestão > Tarifários e Disponibilidade > Calendário de P
 
 Em `'Calendário de Preços'`, será possível consultar os preços, restrições e fechamentos de vendas aplicados para os canais de vendas atribuídos aos tarifários criados pelo hotel. Para visualizar estas informações, é necessário selecionar um `'tipo de quarto'` do tarifário cuja informações deseja consultar.
 
-#### Imagens e marcadores
+
 - 
-- ![imagem-5](/assets/guia-myhotel-calendario-de-precos-teste/imagem-5.webp)
+![imagem-5](/assets/guia-myhotel-calendario-de-precos-teste/imagem-5.webp)
 - 
 
 ---
@@ -89,10 +89,10 @@ Após selecionar o `'tipo de quarto'` do tarifário que deseja consultar, será 
 Opções disponíveis incluem:  
 - `'pesquisa e filtros'` que ajudam a encontrar as informações desejadas de maneira mais rápida. Veja:  
 
-#### Imagens e marcadores
+
 - 
-- ![imagem-8](/assets/guia-myhotel-calendario-de-precos-teste/imagem-8.webp)
-- ![imagem-9](/assets/guia-myhotel-calendario-de-precos-teste/imagem-9.webp)
+![imagem-8](/assets/guia-myhotel-calendario-de-precos-teste/imagem-8.webp)
+![imagem-9](/assets/guia-myhotel-calendario-de-precos-teste/imagem-9.webp)
 - 
 
 ---
@@ -115,10 +115,10 @@ Pesquisar e agrupar por: será possível buscar pelo nome do `'Tarifário'`, do 
 
 Ordenar por: será possível ordenar a lista de tarifas e pacotes por: 'Mais recentes no topo', 'Mais antigas no topo', 'Ordenar de A-Z' e 'Ordenar de Z-A'.  
 
-#### Imagens e marcadores
+
 - 
-- ![imagem-12](/assets/guia-myhotel-calendario-de-precos-teste/imagem-12.webp)
-- ![imagem-13](/assets/guia-myhotel-calendario-de-precos-teste/imagem-13.webp)
+![imagem-12](/assets/guia-myhotel-calendario-de-precos-teste/imagem-12.webp)
+![imagem-13](/assets/guia-myhotel-calendario-de-precos-teste/imagem-13.webp)
 - 
 
 ---
@@ -142,10 +142,10 @@ Escolha o número de PAX (Adultos e Crianças) de acordo com a ocupação do tip
 MÊS:  
 Selecione o mês que deseja consultar informações ou utilize as setas de 'avançar' ou 'retornar'.  
 
-#### Imagens e marcadores
+
 - 
-- ![imagem-16](/assets/guia-myhotel-calendario-de-precos-teste/imagem-16.webp)
-- ![imagem-17](/assets/guia-myhotel-calendario-de-precos-teste/imagem-17.webp)
+![imagem-16](/assets/guia-myhotel-calendario-de-precos-teste/imagem-16.webp)
+![imagem-17](/assets/guia-myhotel-calendario-de-precos-teste/imagem-17.webp)
 - 
 
 ---
@@ -166,10 +166,10 @@ Visualização de 1 mês: permite consultar as informações do mês selecionado
 
 Visualização de 6 meses: irá exibir um calendário que possibilita visualizar até 6 meses.  
 
-#### Imagens e marcadores
+
 - 
-- ![imagem-20](/assets/guia-myhotel-calendario-de-precos-teste/imagem-20.webp)
-- ![imagem-21](/assets/guia-myhotel-calendario-de-precos-teste/imagem-21.webp)
+![imagem-20](/assets/guia-myhotel-calendario-de-precos-teste/imagem-20.webp)
+![imagem-21](/assets/guia-myhotel-calendario-de-precos-teste/imagem-21.webp)
 - 
 
 ---
@@ -194,10 +194,10 @@ E que aparecerão no calendário de preços:
 
 Detalhes e Edição:  
 
-#### Imagens e marcadores
+
 - 
-- ![imagem-24](/assets/guia-myhotel-calendario-de-precos-teste/imagem-24.webp)
-- ![imagem-25](/assets/guia-myhotel-calendario-de-precos-teste/imagem-25.webp)
+![imagem-24](/assets/guia-myhotel-calendario-de-precos-teste/imagem-24.webp)
+![imagem-25](/assets/guia-myhotel-calendario-de-precos-teste/imagem-25.webp)
 - 
 
 ---
@@ -222,9 +222,9 @@ Para editar, clique em `'Editar'`, que será possível para seguir com as atuali
 
 Para tarifários com `'Tipo de Disponibilidade: Tarifário ou Tarifário com impacto no inventário'`, além de atualizar o preço, também será possível atualizar o `'allotment'`.  
 
-#### Imagens e marcadores
+
 - 
-- ![imagem-28](/assets/guia-myhotel-calendario-de-precos-teste/imagem-28.webp)
+![imagem-28](/assets/guia-myhotel-calendario-de-precos-teste/imagem-28.webp)
 - 
 
 ---
@@ -247,10 +247,10 @@ Para editar, clique em `'Editar'`, que será possível para seguir com as atuali
 
 - `'Detalhes'` do tarifário ou tipo de quarto.  
 
-#### Imagens e marcadores
+
 - 
-- ![imagem-31](/assets/guia-myhotel-calendario-de-precos-teste/imagem-31.webp)
-- ![imagem-32](/assets/guia-myhotel-calendario-de-precos-teste/imagem-32.webp)
+![imagem-31](/assets/guia-myhotel-calendario-de-precos-teste/imagem-31.webp)
+![imagem-32](/assets/guia-myhotel-calendario-de-precos-teste/imagem-32.webp)
 - 
 
 ---
@@ -273,10 +273,10 @@ Para editar, clique em `'Editar'`, que será possível para seguir com as atuali
 
 - `'Fechar este(s) dia(s)'` ou `'Abrir este(s) dia(s)'` para um período, clicando e arrastando no calendário.  
 
-#### Imagens e marcadores
+
 - 
-- ![imagem-35](/assets/guia-myhotel-calendario-de-precos-teste/imagem-35.webp)
-- ![imagem-36](/assets/guia-myhotel-calendario-de-precos-teste/imagem-36.webp)
+![imagem-35](/assets/guia-myhotel-calendario-de-precos-teste/imagem-35.webp)
+![imagem-36](/assets/guia-myhotel-calendario-de-precos-teste/imagem-36.webp)
 - 
 
 ---
@@ -297,10 +297,10 @@ Para mais informações, contate: o nosso atendimento online CHAT — ou atravé
 
 [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)  
 
-#### Imagens e marcadores
+
 - 
-- ![imagem-39](/assets/guia-myhotel-calendario-de-precos-teste/imagem-39.webp)
-- ![imagem-40](/assets/guia-myhotel-calendario-de-precos-teste/imagem-40.webp)
+![imagem-39](/assets/guia-myhotel-calendario-de-precos-teste/imagem-39.webp)
+![imagem-40](/assets/guia-myhotel-calendario-de-precos-teste/imagem-40.webp)
 - 
 
 ---
@@ -323,9 +323,9 @@ E será possível clicar em `'Editar'`, `'Fechar este(s) dia(s)'` e `'Abrir este
 
 OU será possível clicar com o botão direito do mouse sobre um dia, para ter acesso ao botão `'Editar'`.  
 
-#### Imagens e marcadores
+
 - 
-- ![imagem-43](/assets/guia-myhotel-calendario-de-precos-teste/imagem-43.webp)
+![imagem-43](/assets/guia-myhotel-calendario-de-precos-teste/imagem-43.webp)
 - 
 
 ---
@@ -346,11 +346,11 @@ Para mais informações, contate: o nosso atendimento online CHAT — ou atravé
 
 [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)  
 
-#### Imagens e marcadores
+
 - 
 - 
-- ![imagem-47](/assets/guia-myhotel-calendario-de-precos-teste/imagem-47.webp)
-- ![imagem-48](/assets/guia-myhotel-calendario-de-precos-teste/imagem-48.webp)
+![imagem-47](/assets/guia-myhotel-calendario-de-precos-teste/imagem-47.webp)
+![imagem-48](/assets/guia-myhotel-calendario-de-precos-teste/imagem-48.webp)
 - 
 
 ---
@@ -369,7 +369,7 @@ GUIA RÁPIDO
 #### Texto explicativo
 Boas Vendas!!  
 
-#### Imagens e marcadores
+
 - 
 - 
 - 
