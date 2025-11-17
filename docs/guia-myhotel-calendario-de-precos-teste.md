@@ -277,11 +277,11 @@ Para mais informações, contate: o nosso atendimento online CHAT - ou através 
 
 [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
-![imagem-34](/assets/guia-myhotel-calendario-de-precos-teste/imagem-34.webp)
+![imagem-29](/assets/guia-myhotel-calendario-de-precos-teste/imagem-29.webp)
 
-![imagem-35](/assets/guia-myhotel-calendario-de-precos-teste/imagem-35.webp)
+![imagem-30](/assets/guia-myhotel-calendario-de-precos-teste/imagem-30.webp)
 
-![imagem-36](/assets/guia-myhotel-calendario-de-precos-teste/imagem-36.webp)
+![imagem-31](/assets/guia-myhotel-calendario-de-precos-teste/imagem-31.webp)
 
 ---
 
@@ -317,9 +317,11 @@ Para mais informações, contate: o nosso atendimento online CHAT - ou através 
 
 [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
-![imagem-37](/assets/guia-myhotel-calendario-de-precos-teste/imagem-37.webp)
+![imagem-32](/assets/guia-myhotel-calendario-de-precos-teste/imagem-32.webp)
 
-![imagem-38](/assets/guia-myhotel-calendario-de-precos-teste/imagem-38.webp)
+![imagem-33](/assets/guia-myhotel-calendario-de-precos-teste/imagem-33.webp)
+
+![imagem-34](/assets/guia-myhotel-calendario-de-precos-teste/imagem-34.webp)
 
 ---
 
@@ -335,7 +337,7 @@ GUIA RÁPIDO
 
 Boas Vendas!!
 
-![imagem-39](/assets/guia-myhotel-calendario-de-precos-teste/imagem-39.webp)
+![imagem-35](/assets/guia-myhotel-calendario-de-precos-teste/imagem-35.webp)
 
 ---
 
@@ -349,7 +351,7 @@ GUIA RÁPIDO
 
 15
 
-
+![imagem-36](/assets/guia-myhotel-calendario-de-precos-teste/imagem-36.webp)
 
 ---
 
