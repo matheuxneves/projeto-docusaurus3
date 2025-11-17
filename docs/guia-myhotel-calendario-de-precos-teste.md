@@ -1,7 +1,7 @@
 ---
 sidebar_label: TARIFÁRIOS E DISPONIBILIDADE
 title: TARIFÁRIOS E DISPONIBILIDADE
-description: Guia detalhado sobre tarifas, calendário de preços e funcionalidades do sistema de gestão hoteleira.
+description: Guia completo sobre tarifas, calendário de preços e funcionalidades do sistema de gestão hoteleira.
 slug: /
 ---
 
@@ -9,7 +9,7 @@ slug: /
 
 ## TARIFÁRIOS E DISPONIBILIDADE
 
-## Página 1
+### Página 1
 
 TARIFÁRIOS E DISPONIBILIDADE
 
@@ -25,15 +25,15 @@ TARIFÁRIOS E DISPONIBILIDADE
 
 CALENDÁRIO DE PREÇOS
 
-![imagem-1](/assets/guia-myhotel-calendario-de-precos-teste/imagem-1.webp)
+%%HARDLOCK_IMAGE_0%%
 
-![imagem-2](/assets/guia-myhotel-calendario-de-precos-teste/imagem-2.webp)
+%%HARDLOCK_IMAGE_1%%
 
-![imagem-3](/assets/guia-myhotel-calendario-de-precos-teste/imagem-3.webp)
+%%HARDLOCK_IMAGE_2%%
 
 ---
 
-## Página 2
+### Página 2
 
 TARIFÁRIOS E DISPONIBILIDADE
 
@@ -51,15 +51,15 @@ O caminho para acessar o calendário de preços do hotel é:
 
 Menu de Navegação > Gestão > Tarifários e Disponibilidade > Calendário de Preços:
 
-![imagem-4](/assets/guia-myhotel-calendario-de-precos-teste/imagem-4.webp)
+%%HARDLOCK_IMAGE_3%%
 
 Em 'pesquisa' e os filtros disponíveis, que podem ajudar a encontrar as informações desejadas de maneira mais rápida. Veja:
 
-![imagem-5](/assets/guia-myhotel-calendario-de-precos-teste/imagem-5.webp)
+%%HARDLOCK_IMAGE_4%%
 
 ---
 
-## Página 3
+### Página 3
 
 TARIFÁRIOS E DISPONIBILIDADE
 
@@ -73,15 +73,15 @@ Consultando o calendário de preços:
 
 Após selecionar o tarifário que deseja consultar, será possível verificar os preços, restrições e fechamentos/aberturas de vendas aplicados para os canais de venda atribuídos ao tarifário. Para visualizar essas informações, é necessário escolher um 'tipo de quarto' do tarifário cuja informações você deseja consultar.
 
-![imagem-6](/assets/guia-myhotel-calendario-de-precos-teste/imagem-6.webp)
+%%HARDLOCK_IMAGE_5%%
 
-![imagem-7](/assets/guia-myhotel-calendario-de-precos-teste/imagem-7.webp)
+%%HARDLOCK_IMAGE_6%%
 
-![imagem-8](/assets/guia-myhotel-calendario-de-precos-teste/imagem-8.webp)
+%%HARDLOCK_IMAGE_7%%
 
 ---
 
-## Página 4
+### Página 4
 
 TARIFÁRIOS E DISPONIBILIDADE
 
@@ -103,15 +103,17 @@ Ordenar por:
 
 Será possível ordenar a lista de tarifas e pacotes por: 'Mais recentes no topo', 'Mais antigas no topo', 'Ordenar de A-Z' e 'Ordenar de Z-A'.
 
-%%IMAGE__8%%
+%%HARDLOCK_IMAGE_10%%
 
-![imagem-10](/assets/guia-myhotel-calendario-de-precos-teste/imagem-10.webp)
+%%HARDLOCK_IMAGE_11%%
 
-![imagem-11](/assets/guia-myhotel-calendario-de-precos-teste/imagem-11.webp)
+%%HARDLOCK_IMAGE_12%%
+
+%%HARDLOCK_IMAGE_13%%
 
 ---
 
-## Página 5
+### Página 5
 
 TARIFÁRIOS E DISPONIBILIDADE
 
@@ -127,15 +129,17 @@ Escolha o número de PAX (Adultos e Crianças) de acordo com a ocupação do tip
 
 Selecione o mês que deseja consultar informações ou utilize as setas de 'avançar ou retornar':
 
-![imagem-12](/assets/guia-myhotel-calendario-de-precos-teste/imagem-12.webp)
+%%HARDLOCK_IMAGE_14%%
 
-![imagem-13](/assets/guia-myhotel-calendario-de-precos-teste/imagem-13.webp)
+%%HARDLOCK_IMAGE_15%%
 
-![imagem-14](/assets/guia-myhotel-calendario-de-precos-teste/imagem-14.webp)
+%%HARDLOCK_IMAGE_16%%
+
+%%HARDLOCK_IMAGE_17%%
 
 ---
 
-## Página 6
+### Página 6
 
 TARIFÁRIOS E DISPONIBILIDADE
 
@@ -149,19 +153,21 @@ Visualização 1 mês:
 
 Permite consultar as informações do mês selecionado:
 
-![imagem-15](/assets/guia-myhotel-calendario-de-precos-teste/imagem-15.webp)
+%%HARDLOCK_IMAGE_18%%
 
 Visualização 6 meses:
 
 Irá exibir um calendário que possibilita visualizar até 6 meses.
 
-![imagem-16](/assets/guia-myhotel-calendario-de-precos-teste/imagem-16.webp)
+%%HARDLOCK_IMAGE_19%%
 
-![imagem-17](/assets/guia-myhotel-calendario-de-precos-teste/imagem-17.webp)
+%%HARDLOCK_IMAGE_20%%
+
+%%HARDLOCK_IMAGE_21%%
 
 ---
 
-## Página 7
+### Página 7
 
 TARIFÁRIOS E DISPONIBILIDADE
 
@@ -177,15 +183,15 @@ Ao estacionar o mouse sobre um dia do calendário, aparecerá também o botão �
 
 OU SERÁ POSSÍVEL CLICAR COM O BOTÃO DIREITO DO MOUSE SOBRE UM DIA, PARA TER ACESSO AO BOTÃO ‘EDITAR’:
 
-![imagem-18](/assets/guia-myhotel-calendario-de-precos-teste/imagem-18.webp)
+%%HARDLOCK_IMAGE_22%%
 
-![imagem-19](/assets/guia-myhotel-calendario-de-precos-teste/imagem-19.webp)
+%%HARDLOCK_IMAGE_23%%
 
-![imagem-20](/assets/guia-myhotel-calendario-de-precos-teste/imagem-20.webp)
+%%HARDLOCK_IMAGE_24%%
 
 ---
 
-## Página 8
+### Página 8
 
 TARIFÁRIOS E DISPONIBILIDADE
 
@@ -205,13 +211,15 @@ Ao clicar em um dia, abrirá uma ‘janela de informações’, mostrando preço
 
 E ao clicar no botão ‘Editar’ (sinalizado com ícone de lápis no canto superior direito da janela de informações), aparecerão mais opções:
 
-![imagem-21](/assets/guia-myhotel-calendario-de-precos-teste/imagem-21.webp)
+%%HARDLOCK_IMAGE_26%%
 
-![imagem-22](/assets/guia-myhotel-calendario-de-precos-teste/imagem-22.webp)
+%%HARDLOCK_IMAGE_27%%
+
+%%HARDLOCK_IMAGE_28%%
 
 ---
 
-## Página 9
+### Página 9
 
 TARIFÁRIOS E DISPONIBILIDADE
 
@@ -227,15 +235,17 @@ Para editar, será possível ‘Editar Detalhes da Tarifa / Tipo de Quarto’ pa
 
 - Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário com impacto no inventário’, além de atualizar o preço, também será possível atualizar o ‘allotment’:
 
-%%IMAGE__22%%
+%%HARDLOCK_IMAGE_29%%
 
-![imagem-24](/assets/guia-myhotel-calendario-de-precos-teste/imagem-24.webp)
+%%HARDLOCK_IMAGE_30%%
 
-![imagem-25](/assets/guia-myhotel-calendario-de-precos-teste/imagem-25.webp)
+%%HARDLOCK_IMAGE_31%%
+
+%%HARDLOCK_IMAGE_32%%
 
 ---
 
-## Página 10
+### Página 10
 
 TARIFÁRIOS E DISPONIBILIDADE
 
@@ -251,15 +261,15 @@ Ao estacionar o mouse sobre um dia do calendário, aparecerá também o botão �
 
 OU SERÁ POSSÍVEL CLICAR COM O BOTÃO DIREITO DO MOUSE SOBRE UM DIA, PARA TER ACESSO AO BOTÃO ‘EDITAR’:
 
-![imagem-26](/assets/guia-myhotel-calendario-de-precos-teste/imagem-26.webp)
+%%HARDLOCK_IMAGE_33%%
 
-![imagem-27](/assets/guia-myhotel-calendario-de-precos-teste/imagem-27.webp)
+%%HARDLOCK_IMAGE_34%%
 
-![imagem-28](/assets/guia-myhotel-calendario-de-precos-teste/imagem-28.webp)
+%%HARDLOCK_IMAGE_35%%
 
 ---
 
-## Página 11
+### Página 11
 
 TARIFÁRIOS E DISPONIBILIDADE
 
@@ -277,15 +287,17 @@ Para mais informações, contate: o nosso atendimento online CHAT - ou através 
 
 [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
-%%IMAGE__28%%
+%%HARDLOCK_IMAGE_36%%
 
-![imagem-30](/assets/guia-myhotel-calendario-de-precos-teste/imagem-30.webp)
+%%HARDLOCK_IMAGE_37%%
 
-![imagem-31](/assets/guia-myhotel-calendario-de-precos-teste/imagem-31.webp)
+%%HARDLOCK_IMAGE_38%%
+
+%%HARDLOCK_IMAGE_39%%
 
 ---
 
-## Página 12
+### Página 12
 
 TARIFÁRIOS E DISPONIBILIDADE
 
@@ -301,7 +313,7 @@ Ao estacionar o mouse sobre um dia do calendário, aparecerá também o botão �
 
 ---
 
-## Página 13
+### Página 13
 
 <div class="annotation" style="cursor:pointer;left:94.7px;top:1334.5px;width:227.1px;height:34.6px;" title="mailto:servicedesk@omnibees.com" onclick="document.location='mailto:servicedesk@omnibees.com';"></div>
 
@@ -317,15 +329,17 @@ Para mais informações, contate: o nosso atendimento online CHAT - ou através 
 
 [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
-%%IMAGE__31%%
+%%HARDLOCK_IMAGE_40%%
 
-%%IMAGE___32%%
+%%HARDLOCK_IMAGE_41%%
 
-%%IMAGE___33%%
+%%HARDLOCK_IMAGE_42%%
+
+%%HARDLOCK_IMAGE_43%%
 
 ---
 
-## Página 14
+### Página 14
 
 TARIFÁRIOS E DISPONIBILIDADE
 
@@ -337,11 +351,11 @@ GUIA RÁPIDO
 
 Boas Vendas!!
 
-%%IMAGE___34%%
+%%HARDLOCK_IMAGE_44%%
 
 ---
 
-## Página 15
+### Página 15
 
 TARIFÁRIOS E DISPONIBILIDADE
 
@@ -351,7 +365,7 @@ GUIA RÁPIDO
 
 15
 
-%%IMAGE___35%%
+%%HARDLOCK_IMAGE_45%%
 
 ---
 
@@ -361,5 +375,4 @@ GUIA RÁPIDO
 - O conteúdo foi convertido integralmente para Markdown, com correções ortográficas e estruturais.
 - O título principal foi extraído e formatado como `#`.
 - Os demais cabeçalhos foram convertidos para `##` ou `###` conforme o nível.
-- O front matter foi criado com um resumo curto do conteúdo.
 - Os blocos de código foram mantidos ou convertidos em ``` quando presentes.
