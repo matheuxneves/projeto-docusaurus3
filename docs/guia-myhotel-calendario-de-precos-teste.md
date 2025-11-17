@@ -373,7 +373,7 @@ Para mais informações, contate: o nosso atendimento online CHAT — ou atravé
 
 #### CALENDÁRIO DE PREÇOS
 
-![]![imagem-45](/assets/guia-myhotel-calendario-de-precos-teste/imagem-45.gif)
+![]
 
 #### GUIA RÁPIDO
 
