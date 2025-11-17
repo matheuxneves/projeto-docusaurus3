@@ -69,7 +69,7 @@ GUIA RÁPIDO
 
 3
 
-Consultando o Calendário de Preços:
+Consultando o calendário de preços:
 
 Após selecionar o tarifário que deseja consultar, será possível verificar os preços, restrições e fechamentos/aberturas de vendas aplicados para os canais de venda atribuídos ao tarifário. Para visualizar essas informações, é necessário escolher um 'tipo de quarto' do tarifário cuja informações você deseja consultar.
 
@@ -103,7 +103,7 @@ Ordenar por:
 
 Será possível ordenar a lista de tarifas e pacotes por: 'Mais recentes no topo', 'Mais antigas no topo', 'Ordenar de A-Z' e 'Ordenar de Z-A'.
 
-![imagem-9](/assets/guia-myhotel-calendario-de-precos-teste/imagem-9.webp)
+%%IMAGE__8%%
 
 ![imagem-10](/assets/guia-myhotel-calendario-de-precos-teste/imagem-10.webp)
 
@@ -227,7 +227,7 @@ Para editar, será possível ‘Editar Detalhes da Tarifa / Tipo de Quarto’ pa
 
 - Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário com impacto no inventário’, além de atualizar o preço, também será possível atualizar o ‘allotment’:
 
-![imagem-23](/assets/guia-myhotel-calendario-de-precos-teste/imagem-23.webp)
+%%IMAGE__22%%
 
 ![imagem-24](/assets/guia-myhotel-calendario-de-precos-teste/imagem-24.webp)
 
@@ -277,7 +277,7 @@ Para mais informações, contate: o nosso atendimento online CHAT - ou através 
 
 [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
-![imagem-29](/assets/guia-myhotel-calendario-de-precos-teste/imagem-29.webp)
+%%IMAGE__28%%
 
 ![imagem-30](/assets/guia-myhotel-calendario-de-precos-teste/imagem-30.webp)
 
@@ -317,11 +317,11 @@ Para mais informações, contate: o nosso atendimento online CHAT - ou através 
 
 [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
-![imagem-32](/assets/guia-myhotel-calendario-de-precos-teste/imagem-32.webp)
+%%IMAGE__31%%
 
-![imagem-33](/assets/guia-myhotel-calendario-de-precos-teste/imagem-33.webp)
+%%IMAGE___32%%
 
-![imagem-34](/assets/guia-myhotel-calendario-de-precos-teste/imagem-34.webp)
+%%IMAGE___33%%
 
 ---
 
@@ -337,7 +337,7 @@ GUIA RÁPIDO
 
 Boas Vendas!!
 
-![imagem-35](/assets/guia-myhotel-calendario-de-precos-teste/imagem-35.webp)
+%%IMAGE___34%%
 
 ---
 
@@ -351,14 +351,15 @@ GUIA RÁPIDO
 
 15
 
-![imagem-36](/assets/guia-myhotel-calendario-de-precos-teste/imagem-36.webp)
+%%IMAGE___35%%
 
 ---
 
 **Notas finais:**
 
-- Todos os placeholders %%IMAGE_X%% foram mantidos exatamente onde estavam.
-- O conteúdo foi limpo, corrigido e estruturado em Markdown.
-- O título principal foi extraído e formatado.
+- Todos os placeholders de imagem (`%%IMAGE_X%%` e `<<<HARDLOCK_IMAGE_X>>>`) foram preservados exatamente como no HTML.
+- O conteúdo foi convertido integralmente para Markdown, com correções ortográficas e estruturais.
+- O título principal foi extraído e formatado como `#`.
+- Os demais cabeçalhos foram convertidos para `##` ou `###` conforme o nível.
 - O front matter foi criado com um resumo curto do conteúdo.
-- Os textos foram ajustados para correção gramatical e ortográfica.
+- Os blocos de código foram mantidos ou convertidos em ``` quando presentes.
