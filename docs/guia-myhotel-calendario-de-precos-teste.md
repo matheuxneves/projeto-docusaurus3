@@ -60,13 +60,13 @@ NESTE GUIA, VOCÊ VAI APRENDER AS FUNCIONALIDADES DA ABA DE CALENDÁRIO DE PREÇ
 
 Para acessar o calendário de preços do hotel, siga o caminho:  
 Menu de Navegação > Gestão > Tarifários e Disponibilidade > Calendário de Preços:  
+- 
+![imagem-5](/assets/guia-myhotel-calendario-de-precos-teste/imagem-5.webp)
+- 
 
 Em `'Calendário de Preços'`, será possível consultar os preços, restrições e fechamentos de vendas aplicados para os canais de vendas atribuídos aos tarifários criados pelo hotel. Para visualizar estas informações, é necessário selecionar um `'tipo de quarto'` do tarifário cuja informações deseja consultar.
 
 
-- 
-![imagem-5](/assets/guia-myhotel-calendario-de-precos-teste/imagem-5.webp)
-- 
 
 ---
 
@@ -88,12 +88,12 @@ Após selecionar o `'tipo de quarto'` do tarifário que deseja consultar, será 
 
 Opções disponíveis incluem:  
 - `'pesquisa e filtros'` que ajudam a encontrar as informações desejadas de maneira mais rápida. Veja:  
-
-
 - 
 ![imagem-8](/assets/guia-myhotel-calendario-de-precos-teste/imagem-8.webp)
 ![imagem-9](/assets/guia-myhotel-calendario-de-precos-teste/imagem-9.webp)
 - 
+
+
 
 ---
 
@@ -140,13 +140,13 @@ Preços para:
 Escolha o número de PAX (Adultos e Crianças) de acordo com a ocupação do tipo de quarto e veja o preço cadastrado:  
 
 MÊS:  
-Selecione o mês que deseja consultar informações ou utilize as setas de 'avançar' ou 'retornar'.  
-
-
 - 
 ![imagem-16](/assets/guia-myhotel-calendario-de-precos-teste/imagem-16.webp)
 ![imagem-17](/assets/guia-myhotel-calendario-de-precos-teste/imagem-17.webp)
 - 
+Selecione o mês que deseja consultar informações ou utilize as setas de 'avançar' ou 'retornar'.  
+
+
 
 ---
 
@@ -193,12 +193,12 @@ Ao estacionar o mouse neste botão, será exibida uma legenda com as cores relac
 E que aparecerão no calendário de preços:  
 
 Detalhes e Edição:  
-
-
 - 
 ![imagem-24](/assets/guia-myhotel-calendario-de-precos-teste/imagem-24.webp)
 ![imagem-25](/assets/guia-myhotel-calendario-de-precos-teste/imagem-25.webp)
 - 
+
+
 
 ---
 
@@ -217,15 +217,15 @@ GUIA RÁPIDO
 Ao clicar em um dia, abrirá uma `'janela de informações'`, mostrando preços, disponibilidade e restrições cadastradas para o tipo de quarto do tarifário.  
 
 Para editar, clique em `'Editar'`, que será possível para seguir com as atualizações de:  
+- 
+![imagem-28](/assets/guia-myhotel-calendario-de-precos-teste/imagem-28.webp)
+- 
 
 - `'Preços do Quarto'`: aqui também será possível fazer atualizações de preços por `'Preço Fixo'` ou `'Variação de Preço'`.  
 
 Para tarifários com `'Tipo de Disponibilidade: Tarifário ou Tarifário com impacto no inventário'`, além de atualizar o preço, também será possível atualizar o `'allotment'`.  
 
 
-- 
-![imagem-28](/assets/guia-myhotel-calendario-de-precos-teste/imagem-28.webp)
-- 
 
 ---
 
@@ -244,14 +244,14 @@ GUIA RÁPIDO
 Ao clicar em um dia, abrirá uma `'janela de informações'`, mostrando preços, disponibilidade e restrições cadastradas para o tipo de quarto do tarifário.  
 
 Para editar, clique em `'Editar'`, que será possível para seguir com as atualizações de:  
-
-- `'Detalhes'` do tarifário ou tipo de quarto.  
-
-
 - 
 ![imagem-31](/assets/guia-myhotel-calendario-de-precos-teste/imagem-31.webp)
 ![imagem-32](/assets/guia-myhotel-calendario-de-precos-teste/imagem-32.webp)
 - 
+
+- `'Detalhes'` do tarifário ou tipo de quarto.  
+
+
 
 ---
 
@@ -270,14 +270,14 @@ GUIA RÁPIDO
 Ao clicar em um dia, abrirá uma `'janela de informações'`, mostrando preços, disponibilidade e restrições cadastradas para o tipo de quarto do tarifário.  
 
 Para editar, clique em `'Editar'`, que será possível para seguir com as atualizações de:  
-
-- `'Fechar este(s) dia(s)'` ou `'Abrir este(s) dia(s)'` para um período, clicando e arrastando no calendário.  
-
-
 - 
 ![imagem-35](/assets/guia-myhotel-calendario-de-precos-teste/imagem-35.webp)
 ![imagem-36](/assets/guia-myhotel-calendario-de-precos-teste/imagem-36.webp)
 - 
+
+- `'Fechar este(s) dia(s)'` ou `'Abrir este(s) dia(s)'` para um período, clicando e arrastando no calendário.  
+
+
 
 ---
 
@@ -294,14 +294,14 @@ GUIA RÁPIDO
 
 #### Texto explicativo
 Para mais informações, contate: o nosso atendimento online CHAT — ou através do e-mail:  
-
-[servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)  
-
-
 - 
 ![imagem-39](/assets/guia-myhotel-calendario-de-precos-teste/imagem-39.webp)
 ![imagem-40](/assets/guia-myhotel-calendario-de-precos-teste/imagem-40.webp)
 - 
+
+[servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)  
+
+
 
 ---
 
@@ -320,13 +320,13 @@ GUIA RÁPIDO
 Ao estacionar o mouse sobre um dia do calendário, aparecerá também o botão `'Editar'` (sinalizado por um ícone em formato de lápis) no canto superior direito do quadrado do dia.  
 
 E será possível clicar em `'Editar'`, `'Fechar este(s) dia(s)'` e `'Abrir este(s) dia(s)'`:  
+- 
+![imagem-43](/assets/guia-myhotel-calendario-de-precos-teste/imagem-43.webp)
+- 
 
 OU será possível clicar com o botão direito do mouse sobre um dia, para ter acesso ao botão `'Editar'`.  
 
 
-- 
-![imagem-43](/assets/guia-myhotel-calendario-de-precos-teste/imagem-43.webp)
-- 
 
 ---
 
@@ -343,15 +343,15 @@ GUIA RÁPIDO
 
 #### Texto explicativo
 Para mais informações, contate: o nosso atendimento online CHAT — ou através do e-mail:  
-
-[servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)  
-
-
 - 
 - 
 ![imagem-47](/assets/guia-myhotel-calendario-de-precos-teste/imagem-47.webp)
 ![imagem-48](/assets/guia-myhotel-calendario-de-precos-teste/imagem-48.webp)
 - 
+
+[servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)  
+
+
 
 ---
 
@@ -400,12 +400,12 @@ Para editar, é possível clicar em `'Editar'`, e, para seguir com as atualizaç
 Ao clicar em um dia, abrirá uma `'janela de informações'`, mostrando preços, disponibilidade e restrições cadastradas para o tipo de quarto do tarifário.  
 
 Para editar, clique em `'Editar'`, que será possível para seguir com as atualizações de:  
+- 
+- 
+- 
 
 - `'Preços do Quarto'`: aqui também será possível fazer atualizações de preços por `'Preço Fixo'` ou `'Variação de Preço'`.  
 
 Para tarifários com `'Tipo de Disponibilidade: Tarifário ou Tarifário com impacto no inventário'`, além de atualizar o preço, também será possível atualizar o `'allotment'`.  
 
 #### Imagens e marcadores
-- 
-- 
-- 
