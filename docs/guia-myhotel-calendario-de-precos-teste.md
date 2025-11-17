@@ -25,11 +25,11 @@ TARIFÁRIOS E DISPONIBILIDADE
 
 CALENDÁRIO DE PREÇOS
 
-%%HARDLOCK_IMAGE_0%%
+![imagem-1](/assets/guia-myhotel-calendario-de-precos-teste/imagem-1.webp)
 
-%%HARDLOCK_IMAGE_1%%
+![imagem-2](/assets/guia-myhotel-calendario-de-precos-teste/imagem-2.webp)
 
-%%HARDLOCK_IMAGE_2%%
+![imagem-3](/assets/guia-myhotel-calendario-de-precos-teste/imagem-3.webp)
 
 ---
 
@@ -51,11 +51,11 @@ O caminho para acessar o calendário de preços do hotel é:
 
 Menu de Navegação > Gestão > Tarifários e Disponibilidade > Calendário de Preços:
 
-%%HARDLOCK_IMAGE_3%%
+![imagem-4](/assets/guia-myhotel-calendario-de-precos-teste/imagem-4.webp)
 
 Em 'pesquisa' e os filtros disponíveis, que podem ajudar a encontrar as informações desejadas de maneira mais rápida. Veja:
 
-%%HARDLOCK_IMAGE_4%%
+![imagem-5](/assets/guia-myhotel-calendario-de-precos-teste/imagem-5.webp)
 
 ---
 
@@ -73,11 +73,11 @@ Consultando o calendário de preços:
 
 Após selecionar o tarifário que deseja consultar, será possível verificar os preços, restrições e fechamentos/aberturas de vendas aplicados para os canais de venda atribuídos ao tarifário. Para visualizar essas informações, é necessário escolher um 'tipo de quarto' do tarifário cuja informações você deseja consultar.
 
-%%HARDLOCK_IMAGE_5%%
+![imagem-6](/assets/guia-myhotel-calendario-de-precos-teste/imagem-6.webp)
 
-%%HARDLOCK_IMAGE_6%%
+![imagem-7](/assets/guia-myhotel-calendario-de-precos-teste/imagem-7.webp)
 
-%%HARDLOCK_IMAGE_7%%
+![imagem-8](/assets/guia-myhotel-calendario-de-precos-teste/imagem-8.webp)
 
 ---
 
@@ -103,13 +103,13 @@ Ordenar por:
 
 Será possível ordenar a lista de tarifas e pacotes por: 'Mais recentes no topo', 'Mais antigas no topo', 'Ordenar de A-Z' e 'Ordenar de Z-A'.
 
-%%HARDLOCK_IMAGE_10%%
+![imagem-11](/assets/guia-myhotel-calendario-de-precos-teste/imagem-11.webp)
 
-%%HARDLOCK_IMAGE_11%%
+![imagem-12](/assets/guia-myhotel-calendario-de-precos-teste/imagem-12.webp)
 
-%%HARDLOCK_IMAGE_12%%
+![imagem-13](/assets/guia-myhotel-calendario-de-precos-teste/imagem-13.webp)
 
-%%HARDLOCK_IMAGE_13%%
+![imagem-14](/assets/guia-myhotel-calendario-de-precos-teste/imagem-14.webp)
 
 ---
 
@@ -129,13 +129,13 @@ Escolha o número de PAX (Adultos e Crianças) de acordo com a ocupação do tip
 
 Selecione o mês que deseja consultar informações ou utilize as setas de 'avançar ou retornar':
 
-%%HARDLOCK_IMAGE_14%%
+![imagem-15](/assets/guia-myhotel-calendario-de-precos-teste/imagem-15.webp)
 
-%%HARDLOCK_IMAGE_15%%
+![imagem-16](/assets/guia-myhotel-calendario-de-precos-teste/imagem-16.webp)
 
-%%HARDLOCK_IMAGE_16%%
+![imagem-17](/assets/guia-myhotel-calendario-de-precos-teste/imagem-17.webp)
 
-%%HARDLOCK_IMAGE_17%%
+![imagem-18](/assets/guia-myhotel-calendario-de-precos-teste/imagem-18.webp)
 
 ---
 
@@ -153,17 +153,17 @@ Visualização 1 mês:
 
 Permite consultar as informações do mês selecionado:
 
-%%HARDLOCK_IMAGE_18%%
+![imagem-19](/assets/guia-myhotel-calendario-de-precos-teste/imagem-19.webp)
 
 Visualização 6 meses:
 
 Irá exibir um calendário que possibilita visualizar até 6 meses.
 
-%%HARDLOCK_IMAGE_19%%
+![imagem-20](/assets/guia-myhotel-calendario-de-precos-teste/imagem-20.webp)
 
-%%HARDLOCK_IMAGE_20%%
+![imagem-21](/assets/guia-myhotel-calendario-de-precos-teste/imagem-21.webp)
 
-%%HARDLOCK_IMAGE_21%%
+![imagem-22](/assets/guia-myhotel-calendario-de-precos-teste/imagem-22.webp)
 
 ---
 
@@ -183,11 +183,11 @@ Ao estacionar o mouse sobre um dia do calendário, aparecerá também o botão �
 
 OU SERÁ POSSÍVEL CLICAR COM O BOTÃO DIREITO DO MOUSE SOBRE UM DIA, PARA TER ACESSO AO BOTÃO ‘EDITAR’:
 
-%%HARDLOCK_IMAGE_22%%
+![imagem-23](/assets/guia-myhotel-calendario-de-precos-teste/imagem-23.webp)
 
-%%HARDLOCK_IMAGE_23%%
+![imagem-24](/assets/guia-myhotel-calendario-de-precos-teste/imagem-24.webp)
 
-%%HARDLOCK_IMAGE_24%%
+![imagem-25](/assets/guia-myhotel-calendario-de-precos-teste/imagem-25.webp)
 
 ---
 
@@ -211,11 +211,11 @@ Ao clicar em um dia, abrirá uma ‘janela de informações’, mostrando preço
 
 E ao clicar no botão ‘Editar’ (sinalizado com ícone de lápis no canto superior direito da janela de informações), aparecerão mais opções:
 
-%%HARDLOCK_IMAGE_26%%
+![imagem-27](/assets/guia-myhotel-calendario-de-precos-teste/imagem-27.webp)
 
-%%HARDLOCK_IMAGE_27%%
+![imagem-28](/assets/guia-myhotel-calendario-de-precos-teste/imagem-28.webp)
 
-%%HARDLOCK_IMAGE_28%%
+![imagem-29](/assets/guia-myhotel-calendario-de-precos-teste/imagem-29.webp)
 
 ---
 
@@ -235,13 +235,13 @@ Para editar, será possível ‘Editar Detalhes da Tarifa / Tipo de Quarto’ pa
 
 - Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário com impacto no inventário’, além de atualizar o preço, também será possível atualizar o ‘allotment’:
 
-%%HARDLOCK_IMAGE_29%%
+![imagem-30](/assets/guia-myhotel-calendario-de-precos-teste/imagem-30.webp)
 
-%%HARDLOCK_IMAGE_30%%
+![imagem-31](/assets/guia-myhotel-calendario-de-precos-teste/imagem-31.webp)
 
-%%HARDLOCK_IMAGE_31%%
+![imagem-32](/assets/guia-myhotel-calendario-de-precos-teste/imagem-32.webp)
 
-%%HARDLOCK_IMAGE_32%%
+![imagem-33](/assets/guia-myhotel-calendario-de-precos-teste/imagem-33.webp)
 
 ---
 
@@ -261,11 +261,11 @@ Ao estacionar o mouse sobre um dia do calendário, aparecerá também o botão �
 
 OU SERÁ POSSÍVEL CLICAR COM O BOTÃO DIREITO DO MOUSE SOBRE UM DIA, PARA TER ACESSO AO BOTÃO ‘EDITAR’:
 
-%%HARDLOCK_IMAGE_33%%
+![imagem-34](/assets/guia-myhotel-calendario-de-precos-teste/imagem-34.webp)
 
-%%HARDLOCK_IMAGE_34%%
+![imagem-35](/assets/guia-myhotel-calendario-de-precos-teste/imagem-35.webp)
 
-%%HARDLOCK_IMAGE_35%%
+![imagem-36](/assets/guia-myhotel-calendario-de-precos-teste/imagem-36.webp)
 
 ---
 
@@ -287,13 +287,13 @@ Para mais informações, contate: o nosso atendimento online CHAT - ou através 
 
 [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
-%%HARDLOCK_IMAGE_36%%
+![imagem-37](/assets/guia-myhotel-calendario-de-precos-teste/imagem-37.webp)
 
-%%HARDLOCK_IMAGE_37%%
+![imagem-38](/assets/guia-myhotel-calendario-de-precos-teste/imagem-38.webp)
 
-%%HARDLOCK_IMAGE_38%%
+![imagem-39](/assets/guia-myhotel-calendario-de-precos-teste/imagem-39.webp)
 
-%%HARDLOCK_IMAGE_39%%
+![imagem-40](/assets/guia-myhotel-calendario-de-precos-teste/imagem-40.webp)
 
 ---
 
@@ -329,13 +329,13 @@ Para mais informações, contate: o nosso atendimento online CHAT - ou através 
 
 [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
-%%HARDLOCK_IMAGE_40%%
+![imagem-41](/assets/guia-myhotel-calendario-de-precos-teste/imagem-41.webp)
 
-%%HARDLOCK_IMAGE_41%%
+![imagem-42](/assets/guia-myhotel-calendario-de-precos-teste/imagem-42.webp)
 
-%%HARDLOCK_IMAGE_42%%
+![imagem-43](/assets/guia-myhotel-calendario-de-precos-teste/imagem-43.webp)
 
-%%HARDLOCK_IMAGE_43%%
+![imagem-44](/assets/guia-myhotel-calendario-de-precos-teste/imagem-44.webp)
 
 ---
 
@@ -351,7 +351,7 @@ GUIA RÁPIDO
 
 Boas Vendas!!
 
-%%HARDLOCK_IMAGE_44%%
+![imagem-45](/assets/guia-myhotel-calendario-de-precos-teste/imagem-45.gif)
 
 ---
 
@@ -365,7 +365,7 @@ GUIA RÁPIDO
 
 15
 
-%%HARDLOCK_IMAGE_45%%
+![imagem-46](/assets/guia-myhotel-calendario-de-precos-teste/imagem-46.webp)
 
 ---
 
