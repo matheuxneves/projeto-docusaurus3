@@ -2,7 +2,7 @@
 ---
 sidebar_label: Tarifários e Disponibilidade - Calendário de Preços
 title: Tarifários e Disponibilidade - Calendário de Preços
-description: Guia completo sobre como utilizar o Calendário de Preços para gerenciar tarifas e disponibilidade no sistema.
+description: Guia rápido para utilizar o calendário de preços e gerenciar tarifas e disponibilidade no sistema.
 slug: /
 ---
 
@@ -19,7 +19,7 @@ O caminho para acessar o calendário de preços do hotel é:
 
 ![imagem-1](/assets/guia-myhotel-calendario-de-precos-teste/imagem-1.webp)
 
-## Consultando o Calendário de Preços:
+## Consultando o Calendário de Preços
 
 Após selecionar o "tipo de quarto" do tarifário que deseja consultar, é importante que você conheça as opções de **'pesquisa e os filtros'** disponíveis, que podem ajudar a encontrar as informações desejadas de maneira mais rápida. Veja:
 
@@ -27,19 +27,19 @@ Após selecionar o "tipo de quarto" do tarifário que deseja consultar, é impor
 
 ![imagem-3](/assets/guia-myhotel-calendario-de-precos-teste/imagem-3.webp)
 
-## 1. Tarifas e Pacote:
+## 1. Tarifas e Pacote
 
 Nesta lista, serão exibidos os tarifários e pacotes criados pelo hotel (para tarifários do tipo pacote, o sistema irá identificá-los com “[P]” antes do nome do tarifário):
 
 ![imagem-4](/assets/guia-myhotel-calendario-de-precos-teste/imagem-4.webp)
 
-## 2. Pesquisar e Agrupar por:
+## 2. Pesquisar e Agrupar por
 
 Será possível buscar pelo nome do ‘Tarifário’, do ‘Tipo de Quarto’, pelo nome do ‘Canal’ de vendas e pelo nome do ‘Nível de Fidelização’ (caso o hotel tenha ativada a solução BeeLoyalty):
 
 ![imagem-5](/assets/guia-myhotel-calendario-de-precos-teste/imagem-5.webp)
 
-## 3. Ordenar por:
+## 3. Ordenar por
 
 Será possível ordenar a lista de tarifas e pacotes por:  
 - Mais recentes no topo  
@@ -47,7 +47,7 @@ Será possível ordenar a lista de tarifas e pacotes por:
 - Ordenar de A-Z  
 - Ordenar de Z-A
 
-## 4. Preços para:
+## 4. Preços para
 
 Escolha o número de PAX (Adultos e Crianças) de acordo com a ocupação do tipo de quarto e veja o preço cadastrado:
 
@@ -55,40 +55,39 @@ Escolha o número de PAX (Adultos e Crianças) de acordo com a ocupação do tip
 
 ![imagem-7](/assets/guia-myhotel-calendario-de-precos-teste/imagem-7.webp)
 
-## 5. Mês:
+## 5. Mês
 
 Selecione o mês que deseja consultar informações ou utilize as setas de ‘avançar ou retornar’:
 
-## 6. Visualização 1 Mês:
+## 6. Visualização 1 Mês
 
 Permite consultar as informações do mês selecionado:
 
 ![imagem-8](/assets/guia-myhotel-calendario-de-precos-teste/imagem-8.webp)
 
-## 7. Visualização 6 Meses:
+## 7. Visualização 6 Meses
 
 Irá exibir um calendário que possibilita visualizar até 6 meses.
 
 ![imagem-9](/assets/guia-myhotel-calendario-de-precos-teste/imagem-9.webp)
 
-## 8. Informações:
+## 8. Informações
 
-Ao estacionar o mouse neste botão, será exibida uma legenda com as cores relacionadas à disponibilidade do hotel:
-
-_‘Aberto para Vendas’, ‘Fechado para Vendas’, ‘Fechado Parcialmente para Vendas’ e ‘Allotment Indisponível’_  
-— e que aparecerão no calendário de preços:
+Ao estacionar o mouse neste botão, será exibida uma legenda com as cores relacionadas à disponibilidade do hotel —  
+_‘Aberto para Vendas’, ‘Fechado para Vendas’, ‘Fechado Parcialmente para Vendas’ e ‘Allotment Indisponível’_ — e que aparecerão no calendário de preços:
 
 ![imagem-10](/assets/guia-myhotel-calendario-de-precos-teste/imagem-10.webp)
 
 ![imagem-11](/assets/guia-myhotel-calendario-de-precos-teste/imagem-11.webp)
 
-## Detalhes e Edição:
+## Detalhes e Edição
 
 Ao clicar em um dia, abrirá uma ‘janela de informações’, mostrando preços, disponibilidade e restrições que estão cadastradas para o tipo de quarto do tarifário:
 
 - **Preços:** valor por ‘Adulto (PAX) ou Criança’ de acordo com a ocupação configurada para o tipo de quarto.
 - **Allotment:** quantidade de quartos disponíveis para vendas, distribuídos por ‘Allotment’ ou ‘Ocupação’.
-- **Restrições:** cadastro de ‘Mín. de Dias’, ‘Máx. de Dias’, ‘Estadia Certa’, ‘Dias de Antecedência’, ‘Fechado à Chegada’, ‘Fechado à Saída’ (Venda Parada: informa se há fecho de vendas aplicado para o dia).
+- **Restrições:** cadastro de ‘Mín. de Dias’, ‘Máx. de Dias’, ‘Estadia Certa’, ‘Dias de Antecedência’, ‘Fechado à Chegada’, ‘Fechado à Saída’.  
+  _Venda Parada_: informa se há fecho de vendas aplicado para o dia.
 
 ![imagem-12](/assets/guia-myhotel-calendario-de-precos-teste/imagem-12.webp)
 
@@ -135,7 +134,7 @@ E PARA ‘EDITAR’, ‘FECHAR ESTE(S) DIA(S)’ E ‘ABRIR ESTE(S) DIA(S)’ PA
 
 ![imagem-21](/assets/guia-myhotel-calendario-de-precos-teste/imagem-21.webp)
 
-Para mais informações, contate: o nosso atendimento online CHAT – ou através do e-mail:  
+Para mais informações, contate: o nosso atendimento online CHAT — ou através do e-mail:  
 [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
 ## Boas Vendas!!
