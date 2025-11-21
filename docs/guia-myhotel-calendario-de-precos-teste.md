@@ -150,13 +150,13 @@ Ao estacionar o mouse neste botão, será exibida uma legenda com as cores relac
 
 Ao clicar em um dia, abrirá uma ‘janela de informações’, mostrando preços, disponibilidade e restrições que tem cadastrado para o tipo de quarto do tarifário:
 
-• **Preços:**  
+- **Preços:**  
   Valor por ‘Adulto (PAX) ou Criança’ de acordo com a ocupação configurada para o tipo de quarto.
 
-• **Allotment:**  
+- **Allotment:**  
   Quantidade de quartos disponíveis para vendas, distribuídos por ‘Allotment’ ou ‘Ocupação’.
 
-• **Restrições:**  
+- **Restrições:**  
   Cadastro de ‘Mín. de Dias’, ‘Máx. de Dias’, ‘Estadia Certa’, ‘Dias de Antecedência’, ‘Fechado à Chegada’, ‘Fechado à Saída’ (‘Venda Parada’: informa se tem fecho de vendas aplicado para o dia).  
   E ao clicar no botão **‘Editar’** (sinalizado com ícone de lápis) no canto superior direito da janela de informações, aparecerão mais opções:
 
@@ -172,10 +172,10 @@ Ao clicar em um dia, abrirá uma ‘janela de informações’, mostrando preço
 
 
 
-• **Editar:**  
+- **Editar:**  
   Será possível ‘Editar Detalhes da Tarifa / Tipo de Quarto’ para seguir com as atualizações de:
 
-• **‘Preços do Quarto’:**  
+- **‘Preços do Quarto’:**  
   Aqui também será possível fazer atualizações de preços por ‘Preço Fixo’ ou ‘Variação de Preço’:
 
 Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário com impacto no inventário’, além de atualizar o preço, também será possível **atualizar o ‘allotment’**:
@@ -194,9 +194,9 @@ Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário c
 
 
 
-• **‘Restrições do Tarifário’:**
+- **‘Restrições do Tarifário’:**
 
-• **‘Fechar/Abrir Vendas’:**
+- **‘Fechar/Abrir Vendas’:**
 
 ![imagem-1](/assets/guia-myhotel-calendario-de-precos-teste/imagem-1.webp)
 
@@ -212,15 +212,15 @@ Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário c
 
 
 
-• **‘Informação da Tarifa’:**  
+- **‘Informação da Tarifa’:**  
   Informando os extras, as taxas, as ofertas e os canais que foram atribuídos ao tarifário:
 
 Após realizar a atualização das informações, clique em **‘Salvar’**.
 
-• **Fechar este(s) dia(s):**  
+- **Fechar este(s) dia(s):**  
   Aplicar fecho de vendas para o dia ou período selecionado.
 
-• **Abrir este(s) dia(s):**  
+- **Abrir este(s) dia(s):**  
   Aplicar abertura de vendas para o dia ou período selecionado.
 
 ![imagem-1](/assets/guia-myhotel-calendario-de-precos-teste/imagem-1.webp)
@@ -237,7 +237,7 @@ Após realizar a atualização das informações, clique em **‘Salvar’**.
 
 
 
-# IMPORTANTE SABER
+## IMPORTANTE SABER
 
 **AO ESTACIONAR O MOUSE SOBRE UM DIA DO CALENDÁRIO, APARECERÁ TAMBÉM O BOTÃO ‘EDITAR’ (SINALIZADO POR UM ÍCONE EM FORMATO DE LÁPIS) NO CANTO SUPERIOR DIREITO DO QUADRADO DO DIA. E SERÁ POSSÍVEL CLICAR EM ‘EDITAR’, ‘FECHAR ESTE(S) DIA(S)’ E ‘ABRIR ESTE(S) DIA(S)’:**
 
