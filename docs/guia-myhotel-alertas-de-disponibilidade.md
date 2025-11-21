@@ -11,17 +11,27 @@ slug: /
 
 ### GUIA RÁPIDO
 
+1 
 
+### GUIA RÁPIDO
 
-
-## ALERTAS DE DISPONIBILIDADE
-
-
-
+# TARIFÁRIOS E DISPONIBILIDADE
 
 ## ALERTAS DE DISPONIBILIDADE
 
+<div class="image" style="left:98.0px;top:4.0px;z-index:117;transform:rotate(0deg);"></div>
+<div class="image" style="left:229.0px;top:735.0px;z-index:140;transform:rotate(0deg);"></div>
+<div class="vector" style="left:0.0px;top:1.0px;transform:rotate(0deg);"></div>
 
+---
+
+# TARIFÁRIOS E DISPONIBILIDADE
+
+## ALERTAS DE DISPONIBILIDADE
+
+### GUIA RÁPIDO
+
+2 
 
 Neste guia, você vai aprender a configurar e editar alertas de disponibilidade.
 
@@ -37,12 +47,18 @@ Além disso, o sistema poderá **'fechar vendas'** quando o número de quartos d
 
 ![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
 
+<div class="image" style="left:98.0px;top:4.0px;z-index:117;transform:rotate(0deg);"></div>
+<div class="vector" style="left:96.0px;top:177.0px;transform:rotate(0deg);"></div>
 
+---
 
+# TARIFÁRIOS E DISPONIBILIDADE
 
 ## ALERTAS DE DISPONIBILIDADE
 
+### GUIA RÁPIDO
 
+3 
 
 ## Configurações:
 
@@ -54,12 +70,19 @@ Para isso, será preciso selecionar a ação desejada e informar o ‘número de
 
 ![imagem-2](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-2.webp)
 
+<div class="image" style="left:98.0px;top:4.0px;z-index:117;transform:rotate(0deg);"></div>
+<div class="image" style="left:100.0px;top:392.0px;z-index:161;transform:rotate(0deg);"></div>
+<div class="vector" style="left:97.0px;top:177.0px;transform:rotate(0deg);"></div>
 
+---
 
+# TARIFÁRIOS E DISPONIBILIDADE
 
 ## ALERTAS DE DISPONIBILIDADE
 
+### GUIA RÁPIDO
 
+4 
 
 - **‘Notifique-me quando o número de quartos disponíveis for menor que [ ]’:**  
   o sistema irá enviar um ‘e-mail de notificação’ para o hotel quando a disponibilidade do quarto estiver abaixo do ‘número de quartos disponíveis’ informado.
@@ -81,12 +104,18 @@ OS TIPOS DE QUARTOS, E NÃO O 'ALLOTMENT'.
 ![imagem-3](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-3.webp)
 ![imagem-4](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-4.webp)
 
+<div class="image" style="left:98.0px;top:4.0px;z-index:117;transform:rotate(0deg);"></div>
+<div class="vector" style="left:97.0px;top:177.0px;transform:rotate(0deg);"></div>
 
+---
 
+# TARIFÁRIOS E DISPONIBILIDADE
 
 ## ALERTAS DE DISPONIBILIDADE
 
+### GUIA RÁPIDO
 
+5 
 
 ## Mais Opções:  
 
@@ -106,12 +135,18 @@ Para acessar o **‘Histórico de Alterações’** das configurações de ‘al
 ![imagem-5](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-5.webp)
 ![imagem-6](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-6.webp)
 
+<div class="image" style="left:98.0px;top:4.0px;z-index:117;transform:rotate(0deg);"></div>
+<div class="vector" style="left:97.0px;top:177.0px;transform:rotate(0deg);"></div>
 
+---
 
+# TARIFÁRIOS E DISPONIBILIDADE
 
 ## ALERTAS DE DISPONIBILIDADE
 
+### GUIA RÁPIDO
 
+6 
 
 Após finalizar as configurações, clique em **‘Salvar’** para que o sistema possa gravar as informações.  
 Para mais informações, contate: o nosso atendimento online CHAT - ou através do e-mail:  
@@ -119,11 +154,22 @@ Para mais informações, contate: o nosso atendimento online CHAT - ou através 
 
 # Boas Vendas!!
 
+<div class="image" style="left:98.0px;top:4.0px;z-index:117;transform:rotate(0deg);"></div>
+<div class="image" style="left:93.0px;top:440.0px;z-index:148;transform:rotate(0deg);"></div>
+<div class="image" style="left:347.0px;top:555.0px;z-index:151;transform:rotate(0deg);"></div>
+<div class="vector" style="left:97.0px;top:177.0px;transform:rotate(0deg);"></div>
 
+---
 
+# TARIFÁRIOS E DISPONIBILIDADE
 
 ## ALERTAS DE DISPONIBILIDADE
 
+### GUIA RÁPIDO
 
+7 
 
+<div class="image" style="left:98.0px;top:4.0px;z-index:117;transform:rotate(0deg);"></div>
+<div class="image" style="left:419.0px;top:668.0px;z-index:142;transform:rotate(0deg);"></div>
+<div class="vector" style="left:0.0px;top:4.0px;transform:rotate(0deg);"></div>
 ```
