@@ -7,15 +7,17 @@ slug: /
 
 # EXEMPLO DE CONTEÚDO
 
-Essa string já contém os tokens [[IMG_0]] no lugar das imagens.
+Essa string já contém os tokens [[IMG_X]] no lugar das imagens.
 
-[[IMG_1]]
+[[IMG_0]]
 
 Aqui está mais texto que segue o placeholder.
 
-[[IMG_2]]
+[[IMG_1]]
 
 E mais texto após outro placeholder.
+
+[[IMG_2]]
 
 [[IMG_3]]
 
