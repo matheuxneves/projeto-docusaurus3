@@ -2,7 +2,7 @@
 ---
 sidebar_label: TARIFÁRIOS E DISPONIBILIDADE
 title: TARIFÁRIOS E DISPONIBILIDADE
-description: Guia rápido para consultar e gerenciar o calendário de preços e disponibilidade do hotel.
+description: Guia rápido para entender e utilizar o calendário de preços e disponibilidade do hotel.
 slug: /
 ---
 # TARIFÁRIOS E DISPONIBILIDADE
