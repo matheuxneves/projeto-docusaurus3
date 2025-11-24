@@ -108,5 +108,4 @@ Para mais informações, contate: o nosso atendimento online CHAT - ou através 
 ![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
 ![imagem-2](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-2.webp)
 ![imagem-3](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-3.webp)
-
 ```
