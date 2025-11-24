@@ -2,7 +2,7 @@
 ---
 sidebar_label: ALERTAS DE DISPONIBILIDADE
 title: ALERTAS DE DISPONIBILIDADE
-description: Guia rápido para configurar e editar alertas de disponibilidade no sistema Omnibees.
+description: Guia rápido para configurar e editar alertas de disponibilidade no sistema.
 slug: /
 ---
 # TARIFÁRIOS E DISPONIBILIDADE
@@ -14,51 +14,44 @@ slug: /
 
 
 
-## ALERTAS DE DISPONIBILIDADE
+## GUIA RÁPIDO
 
+### TARIFÁRIOS E DISPONIBILIDADE
 
+#### ALERTAS DE DISPONIBILIDADE
 
-
-## ALERTAS DE DISPONIBILIDADE
+![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
+![imagem-2](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-2.webp)
+![imagem-3](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-3.webp)
 
 
 
 Neste guia, você vai aprender a configurar e editar alertas de disponibilidade.
 
-#### Como chegar?
+### Como chegar?
 
 O caminho para acessar a aba de ‘alertas de disponibilidade’ é:  
 **Menu de Navegação > Gestão > Tarifários e**  
-**Disponibilidade > Alertas de Disponibilidade:**  
+Disponibilidade > Alertas de Disponibilidade:  
 
 Os **'Alertas de Disponibilidade'** permitem que os hotéis que não têm a conexão de atualização de inventário do PMS (Sistema de Gerenciamento do Hotel) conectada à Omnibees possam controlar a quantidade de quartos disponíveis no myhotel.omnibees com maior facilidade.  
-
 Nesta aba, será possível configurar uma **‘notificação’**, na qual o sistema poderá enviar um e-mail ao hotel informando quando o número de quartos disponíveis for menor que a quantidade de quartos informada para gerar a notificação.  
+Além disso, o sistema poderá **'fechar vendas'** quando o número de quartos disponíveis for menor do que a quantidade informada na configuração.
 
-*Além disso, o sistema poderá* **'fechar vendas'** *quando o número de quartos disponíveis*  
-*for menor do que a quantidade informada na configuração.*  
-
-![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)  
+![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
 
 
 
-## ALERTAS DE DISPONIBILIDADE
-
-
-
-### Configurações:
+Configurações: 
 
 Ao clicar em **‘Adicionar Tipos de Quartos’**, será preciso selecionar os quartos que deseja configurar os ‘alertas de disponibilidade’ e clicar em ‘Ok’:  
 
 Depois, será possível configurar o ‘*envio da notificação*’ ou de aplicação do ‘*fecho vendas*’ para os tipos de quartos selecionados:  
-
 Para isso, será preciso selecionar a ação desejada e informar o ‘número de quartos disponíveis’:  
 
-![imagem-2](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-2.webp)  
+![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
 
-
-
-## ALERTAS DE DISPONIBILIDADE
+![imagem-2](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-2.webp)
 
 
 
@@ -69,7 +62,7 @@ Para isso, será preciso selecionar a ação desejada e informar o ‘número de
   o sistema irá aplicar o fecho de vendas para o quarto, quando o ‘número de quartos disponíveis’ for menor do que o informado.
 
 - **Incluir BE no fecho vendas:**  
-  ao selecionar, além do sistema aplicar o fecho de vendas para o quarto quando o ‘número de quartos disponíveis’ for menor do que o informado, irá aplicar fecho de vendas para o canal Booking Engine (BE) - BeeDirect Motor de Reservas:
+  ao selecionar, além do sistema aplicar o fecho de vendas para o quarto quando o ‘número de quartos disponíveis’ for menor do que o informado, irá aplicar fecho de vendas e para o canal Booking Engine (BE) - BeeDirect Motor de Reservas:
 
 ### IMPORTANTE SABER
 
@@ -77,16 +70,13 @@ Para isso, será preciso selecionar a ação desejada e informar o ‘número de
 
 - **AS CONFIGURAÇÕES DE NOTIFICAÇÃO E FECHO DE VENDAS CONSIDERARÃO O ‘INVENTÁRIO’ CADASTRADO PARA OS TIPOS DE QUARTOS, E NÃO O 'ALLOTMENT'.**
 
-![imagem-3](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-3.webp)  
-![imagem-4](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-4.webp)  
+![imagem-3](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-3.webp)
+
+![imagem-4](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-4.webp)
 
 
 
-## ALERTAS DE DISPONIBILIDADE
-
-
-
-### Mais Opções:  
+### Mais Opções:  
 
 Na aba de ‘Mais Opções’, ‘**Configure e-mails e escreva um assunto’**:
 
@@ -96,32 +86,27 @@ Na aba de ‘Mais Opções’, ‘**Configure e-mails e escreva um assunto’**:
 - **Assunto:**  
   defina qual a mensagem será exibida no título do e-mail; este campo é obrigatório.
 
-  E clique em **“Traduzir”** para seguir com as traduções do assunto.
+ E clique em **“Traduzir”** para seguir com as traduções do assunto.
 
-Para acessar o **‘Histórico de Alterações’** das configurações de ‘alertas de disponibilidade’, clique no botão  
-**‘mais opções’** (sinalizado com três pontos), localizado ao lado dos botões Salvar/Fechar:
+Para acessar o **‘Histórico de Alterações’** das configurações de ‘alertas de disponibilidade’, clique no **botão**  
+‘mais opções’ (sinalizado com três pontos), localizado ao lado dos botões Salvar/Fechar:
 
-![imagem-5](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-5.webp)  
-![imagem-6](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-6.webp)  
+![imagem-5](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-5.webp)
 
-
-
-## ALERTAS DE DISPONIBILIDADE
+![imagem-6](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-6.webp)
 
 
 
 Após finalizar as configurações, clique em **‘Salvar’** para que o sistema possa gravar as informações.  
-
 Para mais informações, contate: o nosso atendimento online CHAT - ou através do e-mail:  
-[servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)  
+[servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
-# Boas Vendas!!
-
-
+### Boas Vendas!!
 
 
-## ALERTAS DE DISPONIBILIDADE
 
-
+![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
+![imagem-2](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-2.webp)
+![imagem-3](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-3.webp)
 
 ```
