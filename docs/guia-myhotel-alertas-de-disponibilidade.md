@@ -1,32 +1,30 @@
-```yaml
+```markdown
 ---
-sidebar_label: ALERTAS DE DISPONIBILIDADE
-title: ALERTAS DE DISPONIBILIDADE
+sidebar_label: TARIFÁRIOS E DISPONIBILIDADE - ALERTAS DE DISPONIBILIDADE - GUIA RÁPIDO
+title: TARIFÁRIOS E DISPONIBILIDADE - ALERTAS DE DISPONIBILIDADE - GUIA RÁPIDO
 description: Guia rápido para configurar e editar alertas de disponibilidade no sistema.
 slug: /
 ---
-# TARIFÁRIOS E DISPONIBILIDADE
 
-## ALERTAS DE DISPONIBILIDADE
-
-### GUIA RÁPIDO
+# TARIFÁRIOS E DISPONIBILIDADE - ALERTAS DE DISPONIBILIDADE - GUIA RÁPIDO
 
 
+## Página 1
+
+TARIFÁRIOS E DISPONIBILIDADE  
+**ALERTAS DE DISPONIBILIDADE**  
+<span style="color:#FFC000">GUIA RÁPIDO</span>
 
 
-## GUIA RÁPIDO
+## Página 2
 
-### TARIFÁRIOS E DISPONIBILIDADE
+TARIFÁRIOS E DISPONIBILIDADE  
+**ALERTAS DE DISPONIBILIDADE**  
+<span style="color:#FFC000">GUIA RÁPIDO</span>
 
-#### ALERTAS DE DISPONIBILIDADE
+1.  
 
-![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
-![imagem-2](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-2.webp)
-![imagem-3](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-3.webp)
-
-
-
-Neste guia, você vai aprender a configurar e editar alertas de disponibilidade.
+NESTE GUIA, VOCÊ VAI APRENDER A CONFIGURAR E EDITAR ALERTAS DE DISPONIBILIDADE.
 
 ### Como chegar?
 
@@ -41,19 +39,32 @@ Além disso, o sistema poderá **'fechar vendas'** quando o número de quartos d
 ![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
 
 
+## Página 3
 
-Configurações: 
+TARIFÁRIOS E DISPONIBILIDADE  
+**ALERTAS DE DISPONIBILIDADE**  
+<span style="color:#FFC000">GUIA RÁPIDO</span>
 
-Ao clicar em **‘Adicionar Tipos de Quartos’**, será preciso selecionar os quartos que deseja configurar os ‘alertas de disponibilidade’ e clicar em ‘Ok’:  
+2.  
 
-Depois, será possível configurar o ‘*envio da notificação*’ ou de aplicação do ‘*fecho vendas*’ para os tipos de quartos selecionados:  
-Para isso, será preciso selecionar a ação desejada e informar o ‘número de quartos disponíveis’:  
+### Configurações:
 
-![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
+Ao clicar em **‘Adicionar Tipos de Quartos’**, será preciso selecionar os quartos que deseja configurar os ‘alertas de disponibilidade’ e clicar em ‘Ok’:
+
+Depois, será possível configurar o ‘*envio da notificação*’ ou de aplicação do ‘*fecho vendas*’ para os tipos de quartos selecionados:
+
+Para isso, será preciso selecionar a ação desejada e informar o ‘número de quartos disponíveis’:
 
 ![imagem-2](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-2.webp)
 
 
+## Página 4
+
+TARIFÁRIOS E DISPONIBILIDADE  
+**ALERTAS DE DISPONIBILIDADE**  
+<span style="color:#FFC000">GUIA RÁPIDO</span>
+
+3.  
 
 - **‘Notifique-me quando o número de quartos disponíveis for menor que [ ]’:**  
   o sistema irá enviar um ‘e-mail de notificação’ para o hotel quando a disponibilidade do quarto estiver abaixo do ‘número de quartos disponíveis’ informado.
@@ -62,7 +73,7 @@ Para isso, será preciso selecionar a ação desejada e informar o ‘número de
   o sistema irá aplicar o fecho de vendas para o quarto, quando o ‘número de quartos disponíveis’ for menor do que o informado.
 
 - **Incluir BE no fecho vendas:**  
-  ao selecionar, além do sistema aplicar o fecho de vendas para o quarto quando o ‘número de quartos disponíveis’ for menor do que o informado, irá aplicar fecho de vendas e para o canal Booking Engine (BE) - BeeDirect Motor de Reservas:
+  ao selecionar, além do sistema aplicar o fecho de vendas para o quarto quando o ‘número de quartos disponíveis’ for menor do que o informado, irá aplicar fecho de vendas também para o canal Booking Engine (BE) - BeeDirect Motor de Reservas:
 
 ### IMPORTANTE SABER
 
@@ -75,6 +86,13 @@ Para isso, será preciso selecionar a ação desejada e informar o ‘número de
 ![imagem-4](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-4.webp)
 
 
+## Página 5
+
+TARIFÁRIOS E DISPONIBILIDADE  
+**ALERTAS DE DISPONIBILIDADE**  
+<span style="color:#FFC000">GUIA RÁPIDO</span>
+
+4.  
 
 ### Mais Opções:  
 
@@ -88,24 +106,36 @@ Na aba de ‘Mais Opções’, ‘**Configure e-mails e escreva um assunto’**:
 
  E clique em **“Traduzir”** para seguir com as traduções do assunto.
 
-Para acessar o **‘Histórico de Alterações’** das configurações de ‘alertas de disponibilidade’, clique no **botão**  
-‘mais opções’ (sinalizado com três pontos), localizado ao lado dos botões Salvar/Fechar:
+Para acessar o **‘Histórico de Alterações’** das configurações de ‘alertas de disponibilidade’, clique no  
+botão **mais opções** (sinalizado com três pontos), localizado ao lado dos botões Salvar/Fechar:
 
 ![imagem-5](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-5.webp)
 
 ![imagem-6](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-6.webp)
 
 
+## Página 6
+
+TARIFÁRIOS E DISPONIBILIDADE  
+**ALERTAS DE DISPONIBILIDADE**  
+<span style="color:#FFC000">GUIA RÁPIDO</span>
+
+5.  
 
 Após finalizar as configurações, clique em **‘Salvar’** para que o sistema possa gravar as informações.  
 Para mais informações, contate: o nosso atendimento online CHAT - ou através do e-mail:  
 [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
-### Boas Vendas!!
+Boas Vendas!!
 
 
+## Página 7
 
-![imagem-1](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-1.webp)
-![imagem-2](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-2.webp)
-![imagem-3](/assets/guia-myhotel-alertas-de-disponibilidade/imagem-3.webp)
+TARIFÁRIOS E DISPONIBILIDADE  
+**ALERTAS DE DISPONIBILIDADE**  
+<span style="color:#FFC000">GUIA RÁPIDO</span>
+
+7.  
+
+
 ```
